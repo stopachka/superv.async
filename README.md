@@ -15,7 +15,7 @@ This library draws
 on [the Erlang philosophy](http://erlang.org/download/armstrong_thesis_2003.pdf)
 of error handling to
 help
-[building robust distributed systems that deal with errors by default](https://whilo.github.io/articles/16/error-handling1).
+[building robust distributed systems that deal with errors by default](https://whilo.github.io/old/articles/16/error-handling1).
 A detailed description of Erlang supervisors can also be
 found [here](http://learnyousomeerlang.com/supervisors).
 
